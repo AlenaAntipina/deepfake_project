@@ -1,1 +1,1 @@
-# deepfate_project
+# deepfake_project
